@@ -1,4 +1,6 @@
 # dictionaries.py
+# This was really fun and i will treasure this time together
+# With my peers.
 
 from itertools import combinations
 
